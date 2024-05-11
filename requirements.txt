@@ -1,0 +1,8 @@
+streamlit
+pip
+tensorflow
+keras
+Image
+patchify
+scikit-learn
+numpy
